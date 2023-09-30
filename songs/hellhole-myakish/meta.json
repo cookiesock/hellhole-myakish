@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 200,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -7650750,
+	"displayName": "Myakish - Hellhole [Lazy Cover]",
+	"icon": "mouse",
+	"name": "hellhole-myakish",
+	"color": "#8B4242"
+}
